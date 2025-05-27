@@ -6,7 +6,7 @@ print(str) # suraj
 
 print(str[2]) # r
 
-# str[2]="k"
+# str[2]="k" # check it lol
 
 '''
 Traceback (most recent call last):
@@ -19,10 +19,10 @@ TypeError: 'str' object does not support item assignment
 
 list=[1,2,3]
 
-print(list)
+print(list) # [1, 2, 3]
 
-print(list[2])
+print(list[2]) # 3
 
 list[2]=10
 
-print(list)
+print(list) # [1, 2, 10]
