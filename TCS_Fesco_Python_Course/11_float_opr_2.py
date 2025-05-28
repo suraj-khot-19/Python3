@@ -15,7 +15,6 @@ import sys
 #  1. FLOAT f1
 #  2. FLOAT f2
 #  3. INTEGER Power
-#
 
 def Float_fun(f1, f2, Power):
     print("#Add")
